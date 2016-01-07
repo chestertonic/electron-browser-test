@@ -1,0 +1,11 @@
+{
+  "name": "electron_browser",
+  "version": "1.0.0",
+  "description": "Electron Browser Demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . "
+  },
+  "author": "chester",
+  "license": "ISC"
+}
